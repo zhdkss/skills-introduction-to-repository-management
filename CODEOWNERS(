@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @zhdkss
+/src/backend/database.py      @zhdkss
+/src/backend/routers/auth.py  @zhdkss
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @zhdkss
